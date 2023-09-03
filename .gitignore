@@ -263,3 +263,6 @@ nodejs/test.js
 
 python/tradingeconomics.egg-info/
 R/tradingeconomics/.RData
+
+# environmental variables
+.env.local
