@@ -41,7 +41,7 @@ Please ensure that you have Node.js version 14.18+, 16+ installed on your machin
 
 ### Compare GDPs page
 
-![Compare GDPs page](./ScreenshotCompareGDPspage.jpeg)
+![Compare GDPs page](./ScreenshotCompareGDPsPage.jpeg)
 
 ## Contributing
 
