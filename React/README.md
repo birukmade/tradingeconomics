@@ -43,10 +43,6 @@ Please ensure that you have Node.js version 14.18+, 16+ installed on your machin
 
 ![Compare GDPs page](./ScreenshotCompareGDPsPage.jpeg)
 
-## Contributing
-
-Contributions are welcome. Please make sure to update tests as appropriate.
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
